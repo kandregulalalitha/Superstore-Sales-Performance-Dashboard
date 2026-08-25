@@ -28,7 +28,7 @@ The dashboard helps identify sales trends, profitable categories, regional perfo
 
 ##  Dashboard Preview
 
-![Superstore Sales Dashboard](dash.png)
+![Superstore Sales Dashboard](dashboard.png)
 
 ##  Project File
 
