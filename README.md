@@ -1,16 +1,16 @@
 # Superstore Sales Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard created to analyze Superstore sales and profit performance.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Power BI
 - DAX
 - Excel
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Total Sales
 - Total Profit
@@ -22,14 +22,14 @@ This project is an interactive Power BI dashboard created to analyze Superstore 
 - Sales Trend
 - Interactive Filters and Slicers
 
-## 💡 Key Insights
+##  Key Insights
 
 The dashboard helps identify sales trends, profitable categories, regional performance, and areas that need improvement.
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](dash.png)
 
-## 📁 Project File
+##  Project File
 
-The Power BI `.pbix` file is included in this repository.
+The Power BI `dashboard.pbix` file is included in this repository.
